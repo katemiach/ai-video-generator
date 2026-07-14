@@ -1,4 +1,4 @@
-import Home from "./pages/Home";
+import Home from "./pages/Home_AtlasCloud";
 import "./styles/app.css";
 
 function App() {
