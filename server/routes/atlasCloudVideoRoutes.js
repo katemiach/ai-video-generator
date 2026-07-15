@@ -41,16 +41,6 @@ const VIDEO_MODELS = [
     supported_resolutions: ["480p", "720p", "1080p"],
     generate_audio: true,
   },
-  {
-  id: "atlascloud/wan-2.2-turbo-spicy/image-to-video",
-  name: "Wan 2.2 Turbo Spicy — дешевле",
-  description:
-    "Недорогая модель для оживления изображения. Поддерживает видео на 5 или 8 секунд.",
-  supported_aspect_ratios: ["16:9", "9:16", "1:1"],
-  supported_durations: [5, 8],
-  supported_resolutions: ["480p", "720p", "1080p"],
-  generate_audio: false,
-},
 ];
 
 /*
